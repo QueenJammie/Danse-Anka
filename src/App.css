@@ -1,4 +1,24 @@
-
+.header
+{
+  background-image: linear-gradient(180deg, #fff, #2F0462);
+  border-bottom: 15px solid #2C045B;
+}
+.btn-services
+{
+  background-color: #5F0361;
+  border-radius: 25px;
+  color: #fff;
+  padding: 15px;
+}
+.btn-services:hover
+{
+  background-color: #995F9A;
+  color: #fff;
+}
+.mainAnkaimg
+{
+  width: 50%;
+}
 h5
 {
   text-align: center;

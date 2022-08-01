@@ -1,6 +1,8 @@
 import Menu from "./Menu";
 import Services from "./Services";
+import logo from "./images/logo.png";
 import anka from './images/DanseAnka.jpg';
+import tabataOrientale from "./images/tabataOrientale.png";
 
 import './App.css';
 
@@ -11,15 +13,24 @@ function App() {
       <div className="container">
         <header className="App-header">
           <div className="row mt-5">
-            <h1 className="title"><img src={anka} width="50" alt="logo" className="me-3" />Danse Anka</h1>
+            <div className="col-6">
+            <h1 className="title"><img src={anka} width="50" alt="logo" className="ms-5" />Danse Anka</h1>
             <Menu />
-              <h5 className="servicesDisponibles">Autres services disponibles</h5>
-              <Services />
-                
+            </div>
+            <div className="col-6">
+              <img src={logo} alt="Logo Danse Anka" height="180" className="mt-5 ms-5" />
+            </div>
           </div>
         </header>
         <body>
+          <div className="row header">
+            <img src={tabataOrientale} alt="" className="mainAnkaimg" />
+          </div>
+          <div className="row">
 
+            <h5 className="servicesDisponibles mt-3">Autres services disponibles</h5>
+            <Services />
+          </div>
         </body>
         <footer className="App-footer">
           {currentDate}
