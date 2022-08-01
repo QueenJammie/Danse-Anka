@@ -1,0 +1,14 @@
+.servicesList
+{
+  max-width: 35rem;
+  text-align: center;
+  color: #A74548;
+}
+.servicesList .footer
+{
+  color: #000;
+}
+.servicesList
+{
+  margin: 0 auto;
+}
