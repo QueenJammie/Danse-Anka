@@ -1,4 +1,23 @@
 li
 {
-    margin-left: 45px;
+  margin-left: 45px;
+  list-style: none;
+}
+.Menu .menuTitle
+{
+  color: #000;
+}
+.Menu ul
+{
+  padding-top: 40px;
+}
+.Menu a
+{
+  color: #A73120;
+  text-decoration: none;
+  font-weight: 500;
+}
+a:hover
+{
+  color: rgb(255, 183, 0);
 }
