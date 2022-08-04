@@ -27,12 +27,12 @@ export default function App() {
               <h5 className=" mt-3">Autres services disponibles</h5>
             </div>
             <Services />
+            <Temoignage />
+            <br />
+            <Usana />
+            <Propos />
+            <Contact />
           </div>
-          <Temoignage />
-          <br />
-          <Usana />
-          <Propos />
-          <Contact />
           
         </body>
         <footer className="App-footer">
