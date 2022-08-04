@@ -76,29 +76,7 @@ li
   color: #000;
   text-align: justify;
 }
-.profilImage
-{
-  text-align: center;
-}
-.commentaire .caractereCommentaire
-{
-  padding-top: 10px;
-  margin-left: 300px;
-}
-.commentaire
-{
-  padding-top: 15px;
-  background-color: #ffffff;
-}
-.commentaire img
-{
-  border-radius: 90px;
-}
-.commentaire h4, .commentaire p
-{
-  color: #A73120;
-  text-align: center;
-}
+
 .Usana
 {
   background-color: #B5A4DB;
@@ -126,14 +104,7 @@ li
   font-size: 24px;
   color: #fff;
 }
-.temoignage
-{
-  background-image: linear-gradient(180deg, #650D67, #ffffff);
-  padding-top: 60px;
-  padding-left: 10em;
-  padding-right: 10em;
-  color: #fff;
-}
+
 .servicesDisponibles
 {
   background-color: #F0E8F0;

@@ -9,7 +9,7 @@ export default function Parcours()
   return (
     <div className="Parcours">
       <div className="row">
-        <div className="col-5">
+        <div className="col-12 col-sm-7">
           <h3 className="ms-3" id="parcours">Le parcours artistique de Anka</h3>
         </div>
       </div>
@@ -28,11 +28,12 @@ export default function Parcours()
         </div>
       </div>
       <div className="row">
-        <div className="col-4 mt-3">
+        <div className="col-12 col-sm-4 mt-3">
           <h3 className="ms-3">Formations et réalisations</h3>
         </div>
+      </div>
         <div className="row">
-          <div className="col-7 text">
+          <div className="col-12 col-sm-7 text">
             <ul>
               <li className="circle">Danse orientale (Baladi): camps, formations intensives et privées depuis 2003</li>
               <li className="circle">Danse Tzigane (Rom): formations intensives et privées depuis 2005</li>
@@ -42,11 +43,10 @@ export default function Parcours()
                 salle par Anka, permettant aux élèves de réaliser des défis grandioses et valorisants.</li>
             </ul>
           </div>
-          <div className="col-5 AnkaParcoursBottom">
+          <div className="col-12 col-sm-5 AnkaParcoursBottom">
             <img src={AnkaParcoursFormations} alt="" />
           </div>
         </div>
       </div>
-    </div>
   );
 }

@@ -5,12 +5,16 @@ import marieJoseeDunn from "./images/MarieJoseeDunn.jpg";
 import sandrineRoy from "./images/SandrineRoy.jpg";
 import hélèneDuboisLaplante from "./images/HélèneDuboisLaplante.jpg";
 
+import "./Temoignage.css";
+
 export default function Temoignage()
 {
   return (
-    <div className="row temoignage">
-      <h1 id="temoignages">Témoignages</h1>
-      <hr />
+    <div className="temoignage">
+      <div className="row">
+        <h1 id="temoignages">Témoignages</h1>
+        <hr />
+      </div>
       <div className="commentaire mb-2">
         <div className="row">
           <div className="col-12 col-sm-3 profilImage">

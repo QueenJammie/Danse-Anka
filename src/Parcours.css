@@ -1,8 +1,10 @@
 .Parcours
 {
+    margin: -13px;
     margin-top: 25px;
     padding: 15px;
     padding-bottom: 1px;
+    box-shadow: 3px 3px 2px #12100e5c;
     border-radius: 15px;
     border: 2px solid #a73120;
     background-color: #F0E8F0;

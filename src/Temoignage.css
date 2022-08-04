@@ -1,0 +1,34 @@
+.temoignage
+{
+  background-image: linear-gradient(180deg, #650D67, #ffffff);
+  padding-top: 60px;
+  padding-left: 10em;
+  padding-right: 10em;
+  color: #fff;
+}
+.commentaire .caractereCommentaire 
+{
+  padding-top: 10px;
+  margin-left: 300px;
+}
+
+.commentaire 
+{
+  padding-top: 15px;
+  background-color: #ffffff;
+}
+
+.commentaire img 
+{
+  border-radius: 90px;
+}
+
+.commentaire h4, .commentaire p 
+{
+  color: #A73120;
+  text-align: center;
+}
+.profilImage {
+  text-align: center;
+  padding-left: 25px;
+}
