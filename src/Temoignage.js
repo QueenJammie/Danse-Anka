@@ -13,12 +13,12 @@ export default function Temoignage()
       <hr />
       <div className="commentaire mb-2">
         <div className="row">
-          <div className="col-3 profilImage">
+          <div className="col-12 col-sm-3 profilImage">
             <img src={katheenCarrier} alt="Élève: Kathleen Carrier" className="profilImage" />
             <h4>Kathleen Carrier</h4>
             <p>élève</p>
           </div>
-          <div className="col-9">
+          <div className="col-12 col-sm-9">
             <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
             <span className="text"><br /><br />Passionnée, motivante et motivée! Changer d’enseignante et d’école de danse, ce n’est pas quelque chose de facile... Lors de ma première journée 
               avec Anka, j'ai tout de suite ressenti un accueil chaleureux, c'est comme si j'avais toujours été avec elle! Pas de gêne, pas de malaise, que du 
@@ -28,12 +28,12 @@ export default function Temoignage()
       </div>
       <div className="commentaire mb-2">
         <div className="row">
-          <div className="col-3 profilImage">
+          <div className="col-12 col-sm-3 profilImage">
             <img src={marieJoseeDunn} alt="Élève: Marie-Josée Dunn" />
             <h4>Marie-Josée Dunn</h4>
             <p>élève</p>
           </div>
-          <div className="col-9">
+          <div className="col-12 col-sm-9">
             <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
             <span className="text"><br /><br />Définitivement, la meilleure école de danse ! 😊 Des professeurs et une propriétaire nous partageant 
             leur passion contagieuse pour la danse.💃 On se sent accueilli et libre d'être soi-même! C'est vraiment un endroit où j'ai pu m'épanouir 
@@ -44,12 +44,12 @@ export default function Temoignage()
       </div>
       <div className="commentaire mb-2">
         <div className="row">
-          <div className="col-3 profilImage">
+          <div className="col-12 col-sm-3 profilImage">
             <img src={sandrineRoy} alt="Élève: Sandrine Roy" className="profilImage" />
             <h4>Sandrine Roy</h4>
             <p>élève</p>
           </div>
-          <div className="col-9">
+          <div className="col-12 col-sm-9">
             <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
             <span className="text"><br /><br />Je suis des cours de baladi avec Danse Anka depuis trois ans. J'ai tout de suite adopté l'ambiance 
             chaleureuse et la flexibilité des cours. Avec la danse, chaque semaine, Anka augmente de plus en plus mon estime de moi et me transmet 
@@ -60,12 +60,12 @@ export default function Temoignage()
       </div>
       <div className="commentaire mb-2">
         <div className="row">
-          <div className="col-3 profilImage">
+          <div className="col-12 col-sm-3 profilImage">
             <img src={hélèneDuboisLaplante} alt="Élève: Hélène Dubois Laplante" className="mt-5 profilImage" />
             <h4>Sandrine Roy</h4>
             <p>élève</p>
           </div>
-          <div className="col-9">
+          <div className="col-12 col-sm-9">
             <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
             <span className="text"><br /><br />Le studio danse Anka est unique en son genre, car on peut y apprendre plus de trois styles de danse 
             (danse orientale Baladi, danse gitane, Bollywood) à un niveau d’expertise, et de passion, élevé. Une chance rare, comme si on était à 
