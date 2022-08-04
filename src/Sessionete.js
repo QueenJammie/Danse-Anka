@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./sessionete.css";
+
 export default function Sessionete()
 {
   return (

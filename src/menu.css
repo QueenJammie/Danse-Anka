@@ -17,7 +17,7 @@ li
   text-decoration: none;
   font-weight: 500;
 }
-a:hover
+.Menu a:hover
 {
   color: rgb(255, 183, 0);
 }
