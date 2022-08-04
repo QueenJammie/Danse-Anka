@@ -4,6 +4,9 @@ import Header from "./Header";
 import SecondHeader from "./SecondHeader";
 import Sessionete from "./Sessionete";
 import Temoignage from "./Temoignage";
+import Usana from "./Usana";
+import Propos from "./Propos";
+import Contact from "./Contact";
 
 import './App.css';
 
@@ -26,10 +29,14 @@ export default function App() {
             <Services />
           </div>
           <Temoignage />
+          <br />
+          <Usana />
+          <Propos />
+          <Contact />
           
         </body>
         <footer className="App-footer">
-          <p>Coded by <a href="mailto:jammie.lacc@outlook.com">Jammie Lachance-Côté</a></p>
+          <p><a href="https://github.com/QueenJammie/Danse-Anka/tree/main/src" target="_blank" rel="noreferrer">Open Code-Source</a> by <a href="mailto:jammie.lacc@outlook.com">Jammie Lachance-Côté</a></p>
         </footer>
       </div>
     </div>

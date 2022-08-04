@@ -1,0 +1,54 @@
+.Parcours
+{
+    margin-top: 25px;
+    padding: 15px;
+    padding-bottom: 1px;
+    border-radius: 15px;
+    border: 2px solid #a73120;
+    background-color: #F0E8F0;
+}
+.Parcours h3
+{
+    color: #a73120;
+    border-bottom: 1px solid black;
+}
+.ankaParcoursTopBorder
+{
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ankaParcoursTopBorder .text
+{
+    line-height: 1;
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 18px;
+}
+.text2
+{
+    line-height: 2.3em;
+    font-size: 18px;
+    color: #080705
+}
+li.circle
+{
+    list-style: circle;
+}
+li.text
+{
+    padding-top: 10px;
+    line-height: 1;
+}
+.ankaParcoursTop
+{
+    width: 350px;
+}
+.AnkaParcoursBottom
+{
+    width: 300px;
+}
+.center
+{
+    text-align: center;
+}

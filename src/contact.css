@@ -1,0 +1,32 @@
+.Contact
+{
+  margin: -13px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding: 50px;
+  padding-bottom: 50px;
+  border-radius: 15px;
+  border: 2px solid #a73120;
+  background-color: #F0E8F0;
+}
+.Contact h2
+{
+  border-bottom: 1px solid black;
+}
+.Contact .menu
+{
+  color: #a73120;
+  padding-top: 40px;
+}
+li.location
+{
+  list-style: disc;
+}
+.Contact .tel
+{
+  text-decoration: underline;
+}
+.facebookIcon
+{
+  width: 50px;
+}
