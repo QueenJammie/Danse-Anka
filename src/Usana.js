@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./Usana.css";
+
 export default function Usana()
 {
   return (

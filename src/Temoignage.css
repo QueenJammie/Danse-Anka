@@ -2,22 +2,27 @@
 {
   background-image: linear-gradient(180deg, #650D67, #ffffff);
   padding-top: 60px;
-  padding-left: 10em;
-  padding-right: 10em;
+  padding-left: 80px;
+  padding-right: 80px;
   color: #fff;
 }
 .commentaire .caractereCommentaire 
 {
   padding-top: 10px;
-  margin-left: 300px;
+  margin: 0 auto;
 }
 
 .commentaire 
 {
   padding-top: 15px;
+  margin-bottom: 12px;
   background-color: #ffffff;
 }
-
+.commentaire .text 
+{
+  color: #000;
+  text-align: justify;
+}
 .commentaire img 
 {
   border-radius: 90px;
@@ -30,5 +35,9 @@
 }
 .profilImage {
   text-align: center;
-  padding-left: 25px;
+}
+.center
+{
+  text-align: center;
+  margin: 0 auto;
 }
