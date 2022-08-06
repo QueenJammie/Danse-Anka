@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./secondHeader.css";
+
 export default function SecondHeader()
 {
   return (

@@ -14,7 +14,7 @@ export default function Parcours()
         </div>
       </div>
       <div className="row ankaParcoursTopBorder">
-        <div className="col-12 col-sm-5 center">
+        <div className="col-12 col-sm-5">
           <img src={AnkaParcoursTop} alt="Anka" className="ankaParcoursTop" />
         </div>
         <div className="col-12 col-sm-7">

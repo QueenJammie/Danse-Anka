@@ -14,43 +14,33 @@
     color: #a73120;
     border-bottom: 1px solid black;
 }
-.ankaParcoursTopBorder
+.Parcours .ankaParcoursTopBorder
 {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #000000;
     margin-left: 20px;
     margin-right: 20px;
 }
-.ankaParcoursTopBorder .text
+.Parcours .ankaParcoursTopBorder .text
 {
     line-height: 1;
     margin-top: 20px;
     text-align: justify;
     font-size: 18px;
 }
-.text2
-{
-    line-height: 2.3em;
-    font-size: 18px;
-    color: #080705
-}
-li.circle
+.Parcours li.circle
 {
     list-style: circle;
 }
-li.text
+.Parcours li.text
 {
     padding-top: 10px;
     line-height: 1;
 }
-.ankaParcoursTop
+.Parcours .ankaParcoursTop
 {
     width: 350px;
 }
-.AnkaParcoursBottom
+.Parcours .AnkaParcoursBottom
 {
     width: 300px;
-}
-.center
-{
-    text-align: center;
 }

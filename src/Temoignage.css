@@ -6,38 +6,33 @@
   padding-right: 80px;
   color: #fff;
 }
-.commentaire .caractereCommentaire 
+.temoignage .commentaire .caractereCommentaire 
 {
   padding-top: 10px;
   margin: 0 auto;
 }
 
-.commentaire 
+.temoignage .commentaire 
 {
   padding-top: 15px;
   margin-bottom: 12px;
   background-color: #ffffff;
 }
-.commentaire .text 
+.temoignage .commentaire .text 
 {
   color: #000;
   text-align: justify;
 }
-.commentaire img 
+.temoignage .commentaire img 
 {
   border-radius: 90px;
 }
 
-.commentaire h4, .commentaire p 
+.temoignage .commentaire h4, .commentaire p 
 {
   color: #A73120;
   text-align: center;
 }
-.profilImage {
+.temoignage .profilImage {
   text-align: center;
-}
-.center
-{
-  text-align: center;
-  margin: 0 auto;
 }

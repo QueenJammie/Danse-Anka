@@ -1,3 +1,18 @@
-a:hover {
-    color: rgb(255, 183, 0);
+.sessionete .sessionForNow 
+{
+  background-color: #F0E8F0;
+  text-align: center;
+  padding: 30px;
+  line-height: 1.4em;
+}
+.sessionete .sessionForNow h2 
+{
+  color: #300562;
+}
+.sessionete .sessionForNow p 
+{
+  color: #A73120;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.8em;
 }

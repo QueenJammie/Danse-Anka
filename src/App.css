@@ -1,80 +1,17 @@
-.header
+a:hover 
 {
-  background-image: linear-gradient(180deg, #fff, #2F0462);
-}
-.second-header
-{
-  border-top: 15px solid #300562;
-  border-bottom: 15px solid #300562;
-  background-color: #AD9AD7;
-  color: #ffffff;
-  padding: 40px;
-}
-.sessionForNow
-{
-  background-color: #F0E8F0;
-  text-align: center;
-  padding: 30px;
-  line-height: 1.4em;
+  color: rgb(255, 183, 0);
 }
 .noListStyle
 {
   list-style: none;
-}
-.sessionForNow p
-{
-  color: #A73120;
-  font-size: 22px;
-  font-weight: 600;
-  line-height: 1.8em;
-}
-.memo
-{
-  font-size: 22px;
-  color: #A73120;
-}
-.sessionForNow h2
-{
-  color: #300562;
 }
 li
 {
   font-size: 19px !important;
   margin: 0;
 }
-.nameAnka
-{
-  font-family:'Dancing Script', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-weight: 100;
-  font-style: italic;
-  color: #A73120;
-  font-size: 35px !important;
-}
-.presentation .text
-{
-  font-size: 32px;
-  line-height: 1.15;
-}
-.presentation
-{
-  background-color: #FFF8EA;
-  padding: 30px;
-  padding-bottom: 15px;
-  border: 2px solid #A73120;
-  border-radius: 15px;
-  position: relative;
-  top: 50px;
-}
-.title
-{
-  position: relative;
-  top: 10px;
-  color: #452659;
-}
-
-
-
-.servicesDisponibles
+.servicesDisponibles 
 {
   background-color: #F0E8F0;
   font-size: 27px;
@@ -92,23 +29,9 @@ li
   text-decoration: none;
   font-weight: bold;
 }
-.btn-services
-{
-  background-color: #5F0361;
-  border-radius: 25px;
-  color: #fff;
-  padding: 15px;
-}
-.btn-services:hover
-{
-  background-color: #995F9A;
-  color: #fff;
-}
-.mainAnkaimg
-{
-  width: 450px;
-}
-h5
+
+h5, .center
 {
   text-align: center;
+  margin: 0 auto;
 }

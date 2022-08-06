@@ -1,6 +1,5 @@
 .Contact
 {
-  margin: -13px;
   margin-top: 15px;
   margin-bottom: 10px;
   padding: 50px;
@@ -13,13 +12,14 @@
 .Contact h2
 {
   border-bottom: 1px solid black;
+  color: #a73120;
 }
 .Contact .menu
 {
   color: #a73120;
   padding-top: 40px;
 }
-li.location
+.Contact li.location
 {
   list-style: disc;
 }
@@ -27,7 +27,7 @@ li.location
 {
   text-decoration: underline;
 }
-.facebookIcon
+.Contact .facebookIcon
 {
   width: 50px;
 }

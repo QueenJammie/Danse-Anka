@@ -1,0 +1,18 @@
+.second-header 
+{
+  border-top: 15px solid #300562;
+  border-bottom: 15px solid #300562;
+  background-color: #AD9AD7;
+  color: #ffffff;
+  padding: 40px;
+}
+.second-header h2
+{
+  color: #A73120;
+  font-size: 22px;
+}
+.second-header ul
+{
+  color: #ffffff;
+  padding-left: 15px;
+}

@@ -1,0 +1,38 @@
+.header 
+{
+  background-image: linear-gradient(180deg, #fff, #2F0462);
+}
+.mainAnkaimg 
+{
+  width: 450px;
+}
+.presentation .text 
+{
+  font-size: 32px;
+  line-height: 1.15;
+}
+
+.presentation 
+{
+  background-color: #FFF8EA;
+  padding: 30px;
+  padding-bottom: 15px;
+  border: 2px solid #A73120;
+  border-radius: 15px;
+  position: relative;
+  top: 50px;
+}
+.title 
+{
+  position: relative;
+  top: 10px;
+  color: #452659;
+}
+.nameAnka 
+{
+  font-family: 'Dancing Script', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 100;
+  font-style: italic;
+  color: #A73120;
+  font-size: 35px !important;
+}

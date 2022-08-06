@@ -1,6 +1,8 @@
 import React from "react";
 import tabataOrientale from "./images/tabataOrientale.png";
 
+import "./Header.css";
+
 export default function Header()
 {
   return (
