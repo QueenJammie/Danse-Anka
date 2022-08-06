@@ -29,9 +29,17 @@ li
   text-decoration: none;
   font-weight: bold;
 }
+.App-footer a:hover
+{
+  color: rgb(255, 183, 0);
+}
 
 h5, .center
 {
   text-align: center;
   margin: 0 auto;
+}
+.backTo:hover
+{
+  color: rgb(255, 183, 0);
 }
