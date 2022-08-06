@@ -1,12 +1,13 @@
 .Usana {
     background-color: #B5A4DB;
-    padding: 30PX;
+    padding: 28px;
     margin-bottom: 18px;
+    margin-top: 18px;
 }
 
 .Usana h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 22px;
+    font-size: 24px;
     color: rgb(75, 75, 75);
 }
 

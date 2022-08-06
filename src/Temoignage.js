@@ -23,9 +23,9 @@ export default function Temoignage()
             <p>élève</p>
           </div>
           <div className="col-12 col-sm-9">
-            <span className="center">
-              <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
-            </span>
+            <div className="row caractereCommentaire">
+              <img src={caractereCommentaire} alt="" />
+            </div>
             <span className="text"><br /><br />Passionnée, motivante et motivée! Changer d’enseignante et d’école de danse, ce n’est pas quelque chose de facile... Lors de ma première journée 
               avec Anka, j'ai tout de suite ressenti un accueil chaleureux, c'est comme si j'avais toujours été avec elle! Pas de gêne, pas de malaise, que du 
               plaisir!! Merci! Kathleen -xxx-</span>
@@ -40,7 +40,9 @@ export default function Temoignage()
             <p>élève</p>
           </div>
           <div className="col-12 col-sm-9">
-            <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
+            <div className="row caractereCommentaire">
+              <img src={caractereCommentaire} alt="" />
+            </div>
             <span className="text"><br /><br />Définitivement, la meilleure école de danse ! 😊 Des professeurs et une propriétaire nous partageant 
             leur passion contagieuse pour la danse.💃 On se sent accueilli et libre d'être soi-même! C'est vraiment un endroit où j'ai pu m'épanouir 
             comme personne. 😊 C'est une école avec une superbe ambiance, où l'on peut partager et s'amuser. Bref, je recommande c'est certain 
@@ -56,7 +58,9 @@ export default function Temoignage()
             <p>élève</p>
           </div>
           <div className="col-12 col-sm-9">
-            <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
+            <div className="row caractereCommentaire">
+              <img src={caractereCommentaire} alt="" />
+            </div>
             <span className="text"><br /><br />Je suis des cours de baladi avec Danse Anka depuis trois ans. J'ai tout de suite adopté l'ambiance 
             chaleureuse et la flexibilité des cours. Avec la danse, chaque semaine, Anka augmente de plus en plus mon estime de moi et me transmet 
             son énergie débordante, alors qu'avant, je me considérais comme une personne plus réservée. On peut apprendre sans jugement, ni 
@@ -72,7 +76,9 @@ export default function Temoignage()
             <p>élève</p>
           </div>
           <div className="col-12 col-sm-9">
-            <img src={caractereCommentaire} alt="" className="caractereCommentaire" />
+            <div className="row caractereCommentaire">
+              <img src={caractereCommentaire} alt="" />
+            </div>
             <span className="text"><br /><br />Le studio danse Anka est unique en son genre, car on peut y apprendre plus de trois styles de danse 
             (danse orientale Baladi, danse gitane, Bollywood) à un niveau d’expertise, et de passion, élevé. Une chance rare, comme si on était à 
             New York!<br /><br />De la musique variée et entraînante, des chorégraphies absolument magnifiques et une communauté de danse bien 

@@ -15,10 +15,10 @@ export default function Services()
           <img src={coursPriveAnka} alt="Cours privé Anka" className="rounded-circle" width="250" height="250" />
           <h3>Cours privé</h3>
           <h4>Anka</h4>
-          <p>ÉCRIS-MOI AVANT<br />DE T'INSCRIRE ICI, NOUS<br />REGARDERONS TES OBJECTIFS !</p>
+          <p><span className="noWeight">50$</span><br />ÉCRIS-MOI AVANT<br />DE T'INSCRIRE ICI, NOUS<br />REGARDERONS TES OBJECTIFS !</p>
           <hr />
           <p className="footer">NIVEAU: multi-niveaux<br />Avec Anka</p>
-          <a href="/"><button className="btn btn-services">M'INSCRIRE</button></a>
+          <a href="https://studiodanseanka.thrivecart.com/cours-priv-avec-anka/" target="_blank" rel="noreferrer"><button className="btn btn-services">M'INSCRIRE</button></a>
         </div>
         <div className="servicesList col-12 col-sm-6 mb-3">
           <img src={locationStudio} alt="Louer le studio" className="rounded-circle" width="250" height="250" />
@@ -37,7 +37,7 @@ export default function Services()
         <div className="servicesList col-12 col-sm-6 mb-3">
           <img src={burlesqueAnka} alt="Festival Burlesque" className="rounded-circle" width="250" height="250" />
           <h3>Festival burlesque<br />Ateliers à venir</h3>
-          <p>POSSIBILITÉ DE REJOINDRE LA TROUPE BURLESQUE AVEC SUNNY FIREFLY ET ANKA</p>
+          <p>POSSIBILITÉ DE REJOINDRE LA <br />TROUPE BURLESQUE <br />AVEC SUNNY FIREFLY ET ANKA</p>
           <a href="mailto:info@danseanka.com"><button className="btn btn-services">info@danseanka.com</button></a>
         </div>
       </div>
@@ -48,7 +48,7 @@ export default function Services()
           <h4 className="mt-4">Tabata orientale<br />(Workout court et intense)<br />30$<br />-DISPONIBLE EN TOUT TEMPS-</h4>
           <hr />
           <p className="footer">NIVEAU: multi-niveaux<br />Avec Anka</p>
-          <a href="/"><button className="btn btn-services">M'INSCRIRE</button></a>
+          <a href="https://studiodanseanka.thrivecart.com/srie-vido-4-tabata-workout-oriental/" target="_blank" rel="noreferrer"><button className="btn btn-services">M'INSCRIRE</button></a>
         </div>
       </div>
     </div>
