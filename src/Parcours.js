@@ -47,6 +47,9 @@ export default function Parcours()
             <img src={AnkaParcoursFormations} alt="" />
           </div>
         </div>
+        <div className="row">
+          <a href="#mainHeader" className="backTo">Back to menu</a>
+        </div>
       </div>
   );
 }

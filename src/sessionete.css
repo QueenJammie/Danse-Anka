@@ -16,3 +16,9 @@
   font-weight: 600;
   line-height: 1.8em;
 }
+.sessionete .backTo {
+  text-align: right;
+  color: #000;
+  position: relative;
+  top: 20px;
+}

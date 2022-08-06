@@ -85,6 +85,9 @@ export default function Temoignage()
             vivante, on y trouve son compte si on cherche à mettre un peu ou beaucoup de danse dans notre vie! J’invite tout le monde à l’essayer!</span>
           </div>
         </div>
+        <div className="row">
+          <a href="#mainHeader" className="backTo">Back to menu</a>
+        </div>
       </div>
     </div>
   );

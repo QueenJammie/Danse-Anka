@@ -21,6 +21,9 @@ export default function Usana()
           </button>
         </a>
       </div>
+      <div className="row">
+        <a href="#mainHeader" className="backTo">Back to menu</a>
+      </div>
     </div>
   );
 }

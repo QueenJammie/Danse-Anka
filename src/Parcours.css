@@ -44,3 +44,10 @@
 {
     width: 300px;
 }
+.Parcours .backTo
+{
+    text-align: right;
+    color: #000;
+    position: relative;
+    top: 0px;
+}

@@ -38,3 +38,9 @@
 .temoignage .profilImage {
   text-align: center;
 }
+.commentaire .backTo {
+  text-align: right;
+  color: #000;
+  position: relative;
+  top: 20px;
+}

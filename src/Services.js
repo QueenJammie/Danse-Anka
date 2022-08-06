@@ -50,6 +50,9 @@ export default function Services()
           <p className="footer">NIVEAU: multi-niveaux<br />Avec Anka</p>
           <a href="https://studiodanseanka.thrivecart.com/srie-vido-4-tabata-workout-oriental/" target="_blank" rel="noreferrer"><button className="btn btn-services">M'INSCRIRE</button></a>
         </div>
+        <div className="row">
+          <a href="#mainHeader" className="backTo">Back to menu</a>
+        </div>
       </div>
     </div>
   );
