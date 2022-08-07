@@ -43,3 +43,10 @@ h5, .center
 {
   color: rgb(255, 183, 0);
 }
+.messenger
+{
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 50px;
+}

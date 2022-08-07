@@ -1,4 +1,4 @@
-.logo-Anka
+.App-header .logo-Anka
 {
   margin-left: 1em;
   margin-right: 1em;
@@ -6,4 +6,8 @@
 .logo
 {
   margin-top: 50px;
+}
+.App-header .title
+{
+  font-family: "Dancing Script";
 }

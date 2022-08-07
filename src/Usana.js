@@ -14,7 +14,7 @@ export default function Usana()
           <li>Visite de la boutique virtuelle!</li>
         </ul>
       </div>
-      <div className="col-12 col-sm-5">
+      <div className="col-12 col-sm-5 mt-2">
         <a href="https://anka.usana.com/ux/dotcom/fre-CA/home" alt="" target="_blank" rel="noreferrer" >
           <button className="btn btn-primary button">
             VISITER LA BOUTIQUE

@@ -8,7 +8,7 @@ import "./MainHeader.css";
 export default function MainHeader()
 {
   return (
-    <div className="MainHeader" id="mainHeader">
+    <div className="MainHeader">
       <header className="App-header">
         <div className="row mt-5">
           <div className="col-7">

@@ -43,6 +43,8 @@
 .Parcours .AnkaParcoursBottom
 {
     width: 300px;
+    position: relative;
+    top: 26px;
 }
 .Parcours .backTo
 {

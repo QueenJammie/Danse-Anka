@@ -7,13 +7,14 @@ import Temoignage from "./Temoignage";
 import Usana from "./Usana";
 import Propos from "./Propos";
 import Contact from "./Contact";
+import Messenger from "./images/Messenger.png";
 
 import './App.css';
 
 export default function App() 
 {
   return (
-    <div className="App">
+    <div className="App" id="mainHeader">
       <div className="container">
         <MainHeader />
         <body>
@@ -31,7 +32,7 @@ export default function App()
             <Propos />
             <Contact />
           </div>
-          
+          <a href="https://www.facebook.com/danseanka/" alt="Contacter Danse Anka"><img src={Messenger} alt="" className="messenger" /></a>
         </body>
         <footer className="App-footer">
           <p><a href="https://github.com/QueenJammie/Danse-Anka/tree/main/src" target="_blank" rel="noreferrer">Open Code-Source</a> by <a href="mailto:jammie.lacc@outlook.com">Jammie Lachance-Côté</a></p>

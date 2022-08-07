@@ -14,7 +14,12 @@ export default function Header()
         <div className="col-12 col-sm-5">
           <div className="presentation">
             <p className="text">"S'Épanouir, s'Exprimer, Être en santé, Ensemble!"</p>
-            <span className="nameAnka">Anka</span>
+            <div className="row">
+              <div className="nameAnka">Anka</div>
+              <span className="smaller"><em><strong>Anka D. Rivard</strong> / Propriétaire du Studio Danse Anka</em></span>
+            </div>
+            
+
           </div>
         </div>
       </div>
