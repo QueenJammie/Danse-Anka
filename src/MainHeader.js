@@ -13,13 +13,13 @@ export default function MainHeader()
         <div className="row mt-5">
           <div className="col-7">
             <h1 className="title">
-              <img src={anka} width="50" alt="logo" className="logo-Anka me-3" />
-              <span className="title">Danse Anka</span>
+              <img src={anka} width="50" alt="logo" className="logo-Anka" />
+              <span className="title">Studio Danse Anka</span>
             </h1>
             <Menu />
           </div>
           <div className="col-2">
-            <img src={logo} alt="Logo Danse Anka" height="180" className="mt-5" />
+            <img src={logo} alt="Logo Danse Anka" height="180" className="logo" />
           </div>
         </div>
       </header>
