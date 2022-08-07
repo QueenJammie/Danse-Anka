@@ -4,7 +4,7 @@
 }
 .mainAnkaimg 
 {
-  width: 100%;
+  width: 450px;
 }
 .presentation .text 
 {
@@ -19,8 +19,6 @@
   padding-bottom: 15px;
   border: 2px solid #A73120;
   border-radius: 15px;
-  position: relative;
-  top: 50px;
 }
 .title 
 {

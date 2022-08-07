@@ -10,10 +10,8 @@ import Contact from "./Contact";
 
 import './App.css';
 
-export default function App() {
-  let page = "services";
-  if (page === "services")
-  {
+export default function App() 
+{
   return (
     <div className="App">
       <div className="container">
@@ -41,13 +39,4 @@ export default function App() {
       </div>
     </div>
   );
-  }
-  else if (page === "contact")
-  {
-    return (
-      <div className="contact">
-        <p>aaa</p>
-      </div>
-    );
-  }
 }
