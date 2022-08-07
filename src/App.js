@@ -32,7 +32,7 @@ export default function App()
             <Propos />
             <Contact />
           </div>
-          <a href="https://www.facebook.com/danseanka/" alt="Contacter Danse Anka"><img src={Messenger} alt="" className="messenger" /></a>
+          <a href="https://www.facebook.com/danseanka/" alt="Contacter Danse Anka" target="_blank" rel="noreferrer"><img src={Messenger} alt="" className="messenger" /></a>
         </body>
         <footer className="App-footer">
           <p><a href="https://github.com/QueenJammie/Danse-Anka/tree/main/src" target="_blank" rel="noreferrer">Open Code-Source</a> by <a href="mailto:jammie.lacc@outlook.com">Jammie Lachance-Côté</a></p>

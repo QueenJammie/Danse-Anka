@@ -22,10 +22,12 @@
 .Services .servicesList .footer
 {
   color: #000;
+  font-weight: 500;
 }
 .Services .servicesList
 {
   margin: 0 auto;
+  min-width: 300px;
 }
 .Services .btn-services 
 {

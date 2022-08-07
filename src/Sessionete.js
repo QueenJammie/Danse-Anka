@@ -20,7 +20,7 @@ export default function Sessionete()
             <li className="noListStyle"><a href="https://ftms.ca/espace-orient/" alt="Festival des Traditions du Monde, Espace Orient">13 Août 12h au Festival des traditions du Monde, Espace Orient</a></li>
             <li className="noListStyle"><a href="https://ftms.ca/espace-orient/" alt="Festival des Traditions du Monde, Espace Orient">14 Août 12h au Festival des traditions du Monde, Espace Orient</a></li>
           </ul>
-          <p className="memo">Nos services ne sont pas assujetis aux taxes!</p>
+          <p className="memo">pss... NOS SERVICES NE SONT PAS ASSUJETIS AUX TAXES!</p>
           <div className="row">
             <a href="#mainHeader" className="backTo">Back to menu</a>
           </div>
