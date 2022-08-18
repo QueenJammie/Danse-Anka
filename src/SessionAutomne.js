@@ -8,7 +8,7 @@ export default function SessionAutomne()
     <div className="sessionAutomne">
       <div className="sessionForNow">
         <div className="nextEvents">
-          <h2 id="sessionAutomne" className="mb-4">2 sessions Automne 2022</h2>
+          <h2 id="sessionAutomne" className="mb-4 bold">2 sessions Automne 2022</h2>
           <h3 className="mb-4">#1: 7 semaines du 12 septembre au 29 octobre</h3>
           <h3 className="mb-4">#2: 6 semaines du 7 novembre au 17 décembre (même horaire, chorégraphies différentes)</h3>
           <h3 className="mb-4">Inscriptions bientôt ouvertes, revenez visiter!</h3>
