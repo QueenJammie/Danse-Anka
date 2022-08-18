@@ -1,0 +1,102 @@
+p
+{
+  color: #A74548;
+}
+.sessionAutomne .sessionForNow 
+{
+  background-color: #F0E8F0;
+  text-align: center;
+  padding: 30px;
+  line-height: 1.4em;
+}
+.sessionAutomne .sessionForNow h2 
+{
+  color: #300562;
+}
+.sessionAutomne .sessionForNow p 
+{
+  color: #A73120;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.8em;
+}
+.nextEvents
+{
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.nextEvents img
+{
+  width: 92%;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.nextEvents p
+{
+  font-size: 22px;
+  margin-bottom: 0 !important;
+  padding-bottom: 5px;
+}
+.nextEvents h2, .nextEvents h3
+{
+  color: #5F0361;
+  margin-bottom: 10px !important;
+  padding-bottom: 5px;
+  padding-top: 0 !important;
+}
+.sessionAutomne
+{
+  font-family: "Lato";
+  font-size: 18px;
+}
+.sessionAutomne .backTo {
+  text-align: right;
+  color: #000;
+  position: relative;
+  top: 20px;
+}
+td
+{
+  border: 1px solid #000;
+  width: 6em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.bold
+{
+  font-weight: bold;
+}
+.hour
+{
+  width: 3em;
+}
+.techniqueOrientale
+{
+  border-bottom: none;
+  background-color: #800080;
+  color: #fff;
+}
+.marmer18
+{
+  background-color: #39F3C2;
+  font-weight: bold;
+}
+.avecSunnyFirefly
+{
+  background-color: #FF9999;
+  font-weight: bold;
+}
+.samedi
+{
+  background-color: #09FFFF;
+}
+.troupePro
+{
+  background-color: #7030A0;
+  color: #fff;
+}
+.moyenOrientOrientale
+{
+  background-color: #00B0F0;
+  font-weight: bold;
+}

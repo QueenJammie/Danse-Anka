@@ -2,7 +2,7 @@ import Services from "./Services";
 import MainHeader from "./MainHeader";
 import Header from "./Header";
 import SecondHeader from "./SecondHeader";
-import Sessionete from "./Sessionete";
+import SessionAutomne from "./SessionAutomne";
 import Temoignage from "./Temoignage";
 import Usana from "./Usana";
 import Propos from "./Propos";
@@ -58,7 +58,7 @@ export default function App()
         <body>
           <Header />
           <SecondHeader />
-          <Sessionete />
+          <SessionAutomne />
           <div className="row ">
             <div className="servicesDisponibles">
               <h5 className=" mt-3">Autres services disponibles</h5>
